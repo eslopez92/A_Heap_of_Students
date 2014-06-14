@@ -186,10 +186,9 @@ class STUDENT
 			string getagd();
 			string getgpa();
 			string getcredithours();
-//				     									          \ /     
-			~STUDENT();//KILLS THE STUDENT                        0 0      _______________
-//		    									                 .   . ~~~| "MUHAHAHAHA!!"|
-//				                                                  ...     |_______________|
+				     									               
+			~STUDENT();//KILLS THE STUDENT                       
+
 };
 
 // pull gpa and credit hours out of text file in this function.
